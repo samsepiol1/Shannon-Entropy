@@ -12,3 +12,4 @@ Onde:
 - \(P(x_i)\) é a probabilidade de \(X\) assumir o valor \(x_i\).
 
 O logaritmo está na base 2, o que implica que a entropia é medida em bits.
+
