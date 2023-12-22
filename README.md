@@ -4,7 +4,10 @@ A entropia de Shannon é uma medida de incerteza ou quantidade de informação e
 
 A entropia de Shannon é definida matematicamente como:
 
-\[ H(X) = - \sum_{i=1}^{n} P(x_i) \log_2 P(x_i) \]
+$$
+H(X) = -\sum_{i=1}^{n} P(x_i) \log_2 P(x_i)
+$$
+
 
 Onde:
 - \(H(X)\) é a entropia da variável aleatória \(X\).
