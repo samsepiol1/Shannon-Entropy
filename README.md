@@ -9,10 +9,3 @@ H(X) = -\sum_{i=1}^{n} P(x_i) \log_2 P(x_i)
 $$
 
 
-Onde:
-- \(H(X)\) é a entropia da variável aleatória \(X\).
-- \(n\) é o número de possíveis valores que \(X\) pode assumir.
-- \(P(x_i)\) é a probabilidade de \(X\) assumir o valor \(x_i\).
-
-O logaritmo está na base 2, o que implica que a entropia é medida em bits.
-
